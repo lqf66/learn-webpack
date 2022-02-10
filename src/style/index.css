@@ -1,0 +1,5 @@
+body div{
+  display: flex;
+  height: 100px;
+  background: url(../images/pic.jpeg) 0 0 no-repeat;
+}
